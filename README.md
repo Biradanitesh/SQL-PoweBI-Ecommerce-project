@@ -194,3 +194,21 @@ left join orders o
 on c.customer_id = o.customer_id
 group by customer_name;
 
+**Dashboard Features**
+
+The Power BI dashboard provides the following insights:
+**Key Performance Indicators (KPIs)**
+Total Revenue
+Total Orders
+Total Customers
+Average Order Value
+
+**Visualizations**
+Sales Quantity by Product – identifies top selling products
+Total Revenue by City – compares sales across cities
+Revenue by Category – shows category contribution
+Quantity Trend by Day – tracks sales trend over time
+Top Customer by Revenue – highlights highest spending customer
+
+**Filters**
+City slicer to analyze sales by location
